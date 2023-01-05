@@ -64,7 +64,7 @@ public class AirbnbApplication implements CommandLineRunner {
 //        List<Reservation> listReservation = reservationDao.findAll();
 //        System.out.println(listReservation);
 //
-       System.out.println(reservationDao.findById(2));
+//       System.out.println(reservationDao.findById(2));
 
     }
 }
